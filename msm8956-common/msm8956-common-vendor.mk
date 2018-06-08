@@ -513,6 +513,7 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     libtime_genoff \
     libloc_api_v02 \
+    libaudioalsa \
     QtiTelephonyService \
     ims \
     imssettings \
